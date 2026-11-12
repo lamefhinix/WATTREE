@@ -1,0 +1,1 @@
+{"routes":[{"path":"/","title":"Overview"},{"path":"/plants","title":"My plants"},{"path":"/plants/:id","title":"Plant details"},{"path":"/activity","title":"Watering activity"},{"path":"/analytics","title":"Analytics"},{"path":"/automation","title":"Automation"},{"path":"/devices","title":"Devices & setup"},{"path":"/settings","title":"Account & settings"}]}
