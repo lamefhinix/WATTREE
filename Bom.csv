@@ -1,5 +1,5 @@
 item,description,link,unit cost,quantity,status
-Arduino Nano,Microcontroller board,https://example.com/arduino-nano,12.50,1,ordered
+esp 32 C3,Microcontroller board,https://example.com/arduino-nano,12.50,1,ordered
 USB cable,Mini USB cable,https://example.com/usb-cable,3.00,2,in stock
 Resistor 10k,"Through-hole, 1/4 watt",https://example.com/resistor-10k,0.10,20,in stock
 LED red,5mm red LED,https://example.com/led-red,0.15,10,need to order
