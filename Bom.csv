@@ -1,10 +1,9 @@
 Item,Quantity,Cost,Source,Purpose
 Plant control system,,,,
-"3"" Light Fiberglass Sleeve, 20ft",1,$20.00,https://sollercompositesllc.com/product/natural-uncolored-3in-light-fiberglass-sleeves/,Nose cone and chute cannon layups
-Aeropoxy Quart Kit,1,$110.00,https://www.aircraftspruce.com/catalog/pnpages/01-42135.php?,"Nose Cone, Chute Cannon, and Fin Can layups"
-ELECTRONICS,,,,
-STLink USB Debugger ,1,$3.00,https://www.aliexpress.us/item/3256807639661526.html?,Debugging and Programming Boards
-Wio Tracker L1 Pro,1,$48.00,https://www.seeedstudio.com/Wio-Tracker-L1-Pro-p-6454.html,Base Station for Camera Board - Non-custom for Reliability Purposes
+ESP32-C3,5,,3.84,https://store.roboticsbd.com/internet-of-things-iot/3588-esp32-c3-development-board-dual-type-c-wifi-bluetooth-ble-50-devkitm-1-core-board-robotics-bangladesh.html, control system for plant boxes 
+buck converter,6,1.97,https://store.roboticsbd.com/components/1524-lm2596-dc-dc-step-down-buck-converter-with-digital-tube-display-robotics-bangladesh.html, convert the voltage to 5v. 
+IRLZ44N N Channel Power Mosfet ,25,0.44,https://store.roboticsbd.com/analog-ics-/1277-irfz44n-mosfet-robotics-bangladesh.html, to connect with the valves and the pump 
+12 V valve,15,,https://www.seeedstudio.com/Wio-Tracker-L1-Pro-p-6454.html,Base Station for Camera Board - Non-custom for Reliability Purposes
 LSM6DSO32TR Accelerometer,1,$12.00,https://www.aliexpress.us/item/3256811581419858.html?,Accelerometer - Resonant Response Experiment
 MetrumITX Board + Ground Station,1,$240.00,Kev1n8088 on Slack,"Tracking, Flight Control"
 Elvin Beacon,1,N/A,Already Owned,Tracking
