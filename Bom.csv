@@ -1,4 +1,4 @@
-item,description,link,unit cost,quantity,status
+item,description,link,unit cost,quantity,status,
 ESP32-C3,Microcontroller development board,,,
 IRLZ44N N-Channel Power MOSFET,Power switching MOSFET,,,
 12V Solenoid Valve,12V 0.8A electric valve,,15,
