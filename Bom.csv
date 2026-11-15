@@ -1,6 +1,6 @@
-item,description,link,unit cost,quantity
-esp 32 C3,Microcontroller board,https://store.roboticsbd.com/internet-of-things-iot/3588-esp32-c3-development-board-dual-type-c-wifi-bluetooth-ble-50-devkitm-1-core-board-robotics-bangladesh.html,3.84,5,
-Buck converter,https://store.roboticsbd.com/components/1524-lm2596-dc-dc-step-down-buck-converter-with-digital-tube-display-robotics-bangladesh.html,1.97,6,
-IRLZ44N N Channel Power Mosfet,"Through-hole, 1/4 watt",https://example.com/resistor-10k,0.10,20,
-LED red,5mm red LED,https://example.com/led-red,0.15,10,need to order
-Breadboard,Half size breadboard,https://example.com/breadboard,5.00,1,need to order
+item,description,link,unit cost,quantity,status
+ESP32-C3,Microcontroller development board,,,
+IRLZ44N N-Channel Power MOSFET,Power switching MOSFET,,,
+12V Solenoid Valve,12V 0.8A electric valve,,15,
+Solar Soil Moisture Sensor,Solar-powered soil moisture sensor,,15,
+Buck Converter with Display,LM2596 DC-DC step-down buck converter with digital display,,6,
