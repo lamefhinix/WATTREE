@@ -4,7 +4,7 @@ ESP32-C3,5,3.84,https://store.roboticsbd.com/internet-of-things-iot/3588-esp32-c
 buck converter,6,1.97,https://store.roboticsbd.com/components/1524-lm2596-dc-dc-step-down-buck-converter-with-digital-tube-display-robotics-bangladesh.html, convert the voltage to 5v. 
 IRLZ44N N Channel Power Mosfet ,25,0.44,https://store.roboticsbd.com/analog-ics-/1277-irfz44n-mosfet-robotics-bangladesh.html, to connect with the valves and the pump 
 12 V valve,15,,https://www.seeedstudio.com/Wio-Tracker-L1-Pro-p-6454.html,Base Station for Camera Board - Non-custom for Reliability Purposes
-LSM6DSO32TR Accelerometer,1,$12.00,https://www.aliexpress.us/item/3256811581419858.html?,Accelerometer - Resonant Response Experiment
+The moisture sensor,15,0.56,https://store.roboticsbd.com/sensors/145-yl-69-soil-hygrometer-humidity-soil-moisture-detection-sensor-robotics-bangladesh.html, to measure the soil moisture 
 MetrumITX Board + Ground Station,1,$240.00,Kev1n8088 on Slack,"Tracking, Flight Control"
 Elvin Beacon,1,N/A,Already Owned,Tracking
 Reperix Tracker,1,N/A,Already Owned,Tracking
