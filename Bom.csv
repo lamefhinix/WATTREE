@@ -1,5 +1,5 @@
-Item,Quantity,Cost,Source,Purpose, total for one 
-Plant control system,,,,
+Item,Quantity,Cost,Source,Purpose, total 
+
 ESP32-C3,5,3.84,https://store.roboticsbd.com/internet-of-things-iot/3588-esp32-c3-development-board-dual-type-c-wifi-bluetooth-ble-50-devkitm-1-core-board-robotics-bangladesh.html, control system for plant boxes ,19.2
 buck converter,6,1.97,https://store.roboticsbd.com/components/1524-lm2596-dc-dc-step-down-buck-converter-with-digital-tube-display-robotics-bangladesh.html, convert the voltage to 5v.,11.82
 IRLZ44N N Channel Power Mosfet ,25,0.44,https://store.roboticsbd.com/analog-ics-/1277-irfz44n-mosfet-robotics-bangladesh.html, to connect with the valves and the pump ,11
